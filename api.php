@@ -1,5 +1,5 @@
 <?php
-
+//Api System
 header('Content-Type: text/html; charset=utf-8');
 $company_id	 = $COMPANY_ID; // Panel Üzerinden Elde Edilecek
 $website_id	 = $WEBSITE_ID; // Panel Üzerinden Elde Edilecek
